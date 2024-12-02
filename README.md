@@ -1,8 +1,24 @@
-# React + Vite
+# Hexnode Assessment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of the Hexnode Assessment. This README provides all the necessary instructions to clone the project, set it up, and run it locally.
 
-Currently, two official plugins are available:
+## Table of Contents
+1. [Installation](#installation)
+2. [Development](#development)
+3. [Build](#build)
+4. [Folder Structure](#folder-structure)
+5. [Troubleshooting](#troubleshooting)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+Follow these steps to get the project up and running on your local machine.
+
+### 1. Clone the Repository
+Clone the repository from GitHub using the following command:
+```bash
+git clone https://github.com/GanapathyRajaP13/Hexnode-Assessment.git
+
+### Navigate to the Project Directory
+## follow the command
+npm install
+npm run dev
